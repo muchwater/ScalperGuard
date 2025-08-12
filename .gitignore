@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Python venv and cache
+ai/.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+indexer/out/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Streamlit cache
+.dashboard/__pycache__/
+.dashboard/.streamlit/
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db
