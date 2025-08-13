@@ -1,0 +1,121 @@
+to
+from
+to22
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to22, 11)).wait()).
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to22, 11)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to22, 10)).wait()).transactionHash;
+const to22   = ethers.getAddress(to22Raw.trim());
+const to2   = ethers.getAddress(to22Raw.trim());
+const to22Raw = "0x1759614150b069AC55c525aC3Ee9a51C1029146f"
+to2Raw="0x1759614150b069AC55c525aC3Ee9a51C1029146f"
+const to2   = ethers.getAddress(to2Raw.trim());
+const to2Raw = 0x1759614150b069AC55c525aC3Ee9a51C1029146f;
+const to   = ethers.getAddress(from2Raw.trim());
+const from2Raw = 0x1759614150b069AC55c525aC3Ee9a51C1029146f;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 9)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 8)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 6)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 7)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 6)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 5)).wait()).transactionHash;
+(await c.ownerOf(4)).toString();
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 4)).wait()).transactionHash;
+(await c.ownerOf(4)).toString();
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, 3)).wait()).transactionHash;
+(await (await c['safeTransferFrom(address,address,uint256)'](to, from, tokenId)).wait()).transactionHash;
+(await c.ownerOf(tokenId)).toString();
+(await (await c['safeTransferFrom(address,address,uint256)'](to, from, tokenId)).wait()).transactionHash;
+(await c.ownerOf(tokenId)).toString();
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, tokenId)).wait()).transactionHash;
+const tokenId=1
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, tokenId)).wait()).transactionHash;
+await c.allowedKYC(to);
+await c.allowedKYC(from);
+(await (await c.setKYC(to,   true)).wait()).hash;
+(await (await c.setKYC(from, true)).wait()).hash;
+ethers.isAddress(to);
+ethers.isAddress(from); 
+const to   = ethers.getAddress(toRaw.trim());
+const from = ethers.getAddress(fromRaw.trim());
+const toRaw   = "0x88C3695ca86B456fF5beC6C6d4EA8aB62884BA44";
+const fromRaw = "0xa02EA30b1f086Da7C24a6a64816912bed2aB1Bf7";
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+let addr = process.env.CONTRACT_ADDRESS || "0x35C8EFE6fCD284A767721100Dd55B409f4F71FDE";
+.exit
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+let addr = process.env.CONTRACT_ADDRESS || "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";
+.exit
+(await c.ownerOf(tokenId)).toString();
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, tokenId)).wait()).transactionHash;
+const tokenId = 1
+(await (await c['safeTransferFrom(address,address,uint256)'](from, to, tokenId)).wait()).transactionHash;
+await c.allowedKYC(to);
+await c.allowedKYC(from);
+(await (await c.setKYC(to,   true)).wait()).hash;
+(await (await c.setKYC(from, true)).wait()).hash;
+ethers.isAddress(to);
+ethers.isAddress(from); 
+const to   = ethers.getAddress(toRaw.trim());
+const from = ethers.getAddress(fromRaw.trim());
+const toRaw   = "0x88C3695ca86B456fF5beC6C6d4EA8aB62884BA44";
+const fromRaw = "0xa02EA30b1f086Da7C24a6a64816912bed2aB1Bf7";
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+let addr = process.env.CONTRACT_ADDRESS || "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";
+.exit
+await c.allowedKYC(to);    // true
+await c.allowedKYC(from);  // true
+await (await c.setKYC(to, true)).wait();
+await (await c.setKYC(from, true)).wait();
+await c.allowedKYC(to);
+await c.allowedKYC(from);                  // 둘 다 true 가 나와야 함
+(await c.ownerOf(tokenId)).toString();     // => from 주소와 같아야 함
+const tokenId = 1; // 전송할 NFT ID (확실치 않으면 아래 ownerOf로 확인)
+const to   = "0x88C3695ca86B456fF5beC6C6d4EA8aB62884BA44"; // 받는 사람
+const from = "0xa02EA30b1f086Da7C24a6a64816912bed2aB1Bf7"; // 보낸 사람(현재 토큰 소유자)
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+if (!addr) addr = "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";  // 꼭 교체
+let addr = process.env.CONTRACT_ADDRESS;
+// 만약 환경변수에 없으면 직접 주소를 넣어줘도 됨.
+// 하드햇 콘솔에서 실행중이라고 가정
+.exit
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+if (!addr) addr = "0x<여기에_컨트랙트주소>";  // 꼭 교체
+let addr = process.env.CONTRACT_ADDRESS;
+// 만약 환경변수에 없으면 직접 주소를 넣어줘도 됨.
+// 하드햇 콘솔에서 실행중이라고 가정
+.exit
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+if (!addr) addr = "0x<여기에_컨트랙트주소>";  // 꼭 교체
+let addr = process.env.CONTRACT_ADDRESS;
+// 만약 환경변수에 없으면 직접 주소를 넣어줘도 됨.
+// 하드햇 콘솔에서 실행중이라고 가정
+await (await c['safeTransferFrom(address,address,uint256)'](from, to, tokenId)).wait();
+const tokenId = 1; // 전송할 NFT ID
+const to = "0x88C3695ca86B456fF5beC6C6d4EA8aB62884BA44";
+const from = "0xa02EA30b1f086Da7C24a6a64816912bed2aB1Bf7";
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+const addr = process.env.CONTRACT_ADDRESS;
+.exit
+(await c.safeMint("0x88C3695ca86B456fF5beC6C6d4EA8aB62884BA44")).hash  // 토큰 #2 발행 (옵션)
+(await c.safeMint("0xa02EA30b1f086Da7C24a6a64816912bed2aB1Bf7")).hash  // 토큰 #1 발행
+(await c.owner()).toString()  // 배포자 주소 확인(옵션)
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+const addr = process.env.CONTRACT_ADDRESS || "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";
+.exit
+(await c.safeMint("0x4c48bd125c0ac18b1b9ef8a83f550090c9834267a33a4451f3e075263bbe43d0")).hash  // 토큰 #2 발행 (옵션)
+(await c.safeMint("0x18a6e4524d682e30e3605b7b9e96b308eeb4bf068f93878b7c3457faa4cbdaa1")).hash  // 토큰 #1 발행
+(await c.owner()).toString()  // 배포자 주소 확인(옵션)
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+const addr = process.env.CONTRACT_ADDRESS || "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";
+.exit
+(await c.safeMint("0xYourWallet2")).hash  // 토큰 #2 발행 (옵션)
+(await c.safeMint("0xYourWallet1")).hash  // 토큰 #1 발행
+(await c.owner()).toString()  // 배포자 주소 확인(옵션)
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+const addr = process.env.CONTRACT_ADDRESS || "<컨트랙트주소>";cess.env.CONTRACT_ADDRESS || "0xf2cDAbF07508F12188A12B7825A330A6B764eDf0";
+.exit
+(await c.safeMint("0xYourWallet2")).hash  // 토큰 #2 발행 (옵션)
+(await c.safeMint("0xYourWallet1")).hash  // 토큰 #1 발행
+(await c.owner()).toString()  // 배포자 주소 확인(옵션)
+const c = await ethers.getContractAt("CappedResaleTicket", addr);
+const addr = process.env.CONTRACT_ADDRESS || "<컨트랙트주소>";
