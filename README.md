@@ -1,11 +1,11 @@
 # ScalperGuard – Demo (Blockchain + AI)
 
-## 1) 요구사항
+## 1) Requirements
 - Node.js >= 18, npm
 - Python >= 3.10
 - Git, OpenSSL
 
-## 2) 설치
+## 2) Installation
 ```bash
 # 루트에서
 npm i
