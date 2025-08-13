@@ -9289,3 +9289,123 @@ Transfer: {
   },
   shortMessage: 'could not coalesce error'
 }
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2663, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0x8c87776fe2a7784b82fdfcc85343c012" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0x8c87776fe2a7784b82fdfcc85343c012' ],
+    id: 2663,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2664, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0xae5594a7e53e72e10000557989d3df8c" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0xae5594a7e53e72e10000557989d3df8c' ],
+    id: 2664,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2668, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0x8c87776fe2a7784b82fdfcc85343c012" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0x8c87776fe2a7784b82fdfcc85343c012' ],
+    id: 2668,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2669, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0xae5594a7e53e72e10000557989d3df8c" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0xae5594a7e53e72e10000557989d3df8c' ],
+    id: 2669,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2678, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0x8c87776fe2a7784b82fdfcc85343c012" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0x8c87776fe2a7784b82fdfcc85343c012' ],
+    id: 2678,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2679, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0xae5594a7e53e72e10000557989d3df8c" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0xae5594a7e53e72e10000557989d3df8c' ],
+    id: 2679,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2683, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0x8c87776fe2a7784b82fdfcc85343c012" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0x8c87776fe2a7784b82fdfcc85343c012' ],
+    id: 2683,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
+@TODO Error: could not coalesce error (error={ "code": -32000, "message": "filter not found" }, payload={ "id": 2684, "jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": [ "0xae5594a7e53e72e10000557989d3df8c" ] }, code=UNKNOWN_ERROR, version=6.15.0)
+    at makeError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/utils/errors.ts:698:21)
+    at JsonRpcProvider.getRpcError (/Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:1086:25)
+    at /Users/muchwater/ScalperGuard/node_modules/ethers/src.ts/providers/provider-jsonrpc.ts:571:45
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'UNKNOWN_ERROR',
+  error: { code: -32000, message: 'filter not found' },
+  payload: {
+    method: 'eth_getFilterChanges',
+    params: [ '0xae5594a7e53e72e10000557989d3df8c' ],
+    id: 2684,
+    jsonrpc: '2.0'
+  },
+  shortMessage: 'could not coalesce error'
+}
